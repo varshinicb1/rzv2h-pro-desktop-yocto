@@ -1,4 +1,3 @@
-Below is a **plain‑Markdown** README you can drop straight into `README.md` at the root of your repository.
 It assumes the reader starts from a fresh **Ubuntu 22.04 LTS** install with nothing else installed.
 
 ---
